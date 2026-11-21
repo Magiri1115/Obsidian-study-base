@@ -1,0 +1,53 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "assets/ER図",
+      "tag": "#ER図",
+      "pattern": ""
+    },
+    {
+      "folder": "assets/テーブル定義",
+      "tag": "#テーブル定義",
+      "pattern": ""
+    },
+    {
+      "folder": "assets/概念図",
+      "tag": "#概念図",
+      "pattern": ""
+    },
+    {
+      "folder": "DBスペシャリスト/01_概念・論理設計",
+      "tag": "#01_概念・論理設計",
+      "pattern": ""
+    },
+    {
+      "folder": "DBスペシャリスト/02_物理設計・インデックス",
+      "tag": "#02_物理設計・インデックス",
+      "pattern": ""
+    },
+    {
+      "folder": "DBスペシャリスト/03_SQL・実行計画",
+      "tag": "#03_SQL・実行計画",
+      "pattern": ""
+    },
+    {
+      "folder": "DBスペシャリスト/04_トランザクション・並行性制御",
+      "tag": "#04_トランザクション・並行性制「「",
+      "pattern": ""
+    },
+    {
+      "folder": "",
+      "tag": "",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

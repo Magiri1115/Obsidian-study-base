@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "openBehavior": "daily",
+  "focusNewTab": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "daily",
+  "attachmentFolderPath": "assets",
+  "deleteUnlinkedAttachments": "always"
+}
